@@ -4,8 +4,8 @@ import Profile from "./components/Profile";
 import Offers from "./components/Offers";
 import SignIn from "./components/SignIn";
 import Signup from "./components/Signup";
-import ForgotPassword from "./components/ForgotPassword";
 import Header from "./components/Header";
+import ForgotPassword from "./components/ForgotPassword";
 
 function App() {
   return (
